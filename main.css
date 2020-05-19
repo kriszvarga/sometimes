@@ -1,0 +1,52 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+}
+body { 
+  height: 100vh;
+  background: url("assets/pure.jpg") no-repeat center center;
+  background-size: cover;
+  width: 100%;
+  line-height: 1.2;
+}
+.wrapper {
+  margin: 0 auto;
+  width: 88%;
+  text-align: center;
+  padding-top: 17rem;
+  font-weight: bold;
+}
+.text {
+  font-family: "Julius Sans One", sans-serif;
+  font-size: 2.8rem;
+  padding-bottom: 2rem;
+}
+#first {
+  color: #fffff5;
+}
+#second {
+  color: #153b01;
+  padding-bottom: 0.5rem;
+}
+.writer {
+  font-family: "nunito", sans-serif;
+  font-style: italic;
+  font-size: 1.3rem;
+  color: #091a01;
+}
+li {
+  display: inline;
+}
+ul {
+  list-style-type: none;
+  text-align: center;
+  letter-spacing: 3rem;
+}
+.flag1, .flag2, .flag3 {
+  height: 70px;
+  width: 120px;
+}
+.language {
+  padding-top: 10rem;
+}
